@@ -1,6 +1,10 @@
-Application Run Time 09/05/2023 6:31:10 pm
-Application Run Time 09/05/2023 6:37:54 pm
-Application Run Time 09/05/2023 6:37:58 pm
-Application Run Time 09/05/2023 6:38:10 pm
-Application Run Time 09/05/2023 6:39:28 pm
-Application Run Time 09/05/2023 6:40:30 pm
+1. Streamreader line 1.
+2. Streamreader line 2.
+3. Streamreader line 3.
+4. Streamreader line 4.
+
+Application Run Time 09/05/2023 10:35:56 pm
+Application Run Time 09/05/2023 10:36:01 pm
+Application Run Time 09/05/2023 10:36:24 pm
+Application Run Time 09/05/2023 10:36:35 pm
+Application Run Time 09/05/2023 10:36:48 pm
